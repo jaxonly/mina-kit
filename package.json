@@ -1,6 +1,6 @@
 {
   "name": "mina-kit",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "main": "dist/mina-kit.cjs.js",
   "module": "dist/mina-kit.esm.js",
   "dependencies": {
